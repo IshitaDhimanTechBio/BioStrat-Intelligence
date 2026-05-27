@@ -1,0 +1,11 @@
+{
+  "product_category": "Dairy - Probiotic Curd / Yogurt",
+  "regulatory_body": "FSSAI (Food Safety and Standards Authority of India)",
+  "limits": {
+    "total_plate_count_max_cfu_g": 50000,
+    "e_coli_limit": "ABSENT_IN_1G",
+    "salmonella_limit": "ABSENT_IN_25G",
+    "coliform_max_cfu_g": 10,
+    "yeast_mould_max_cfu_g": 100
+  }
+}
